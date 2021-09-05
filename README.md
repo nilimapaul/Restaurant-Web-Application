@@ -1,2 +1,2 @@
 # Restaurant-Web-Application
-Designed and implemented fully functional web application of a restaurant usingHTML, CSS, JS, jQuery, BootstrapandimplementedAJAXto speed up the web page.
+Fully functional web application of a restaurant using HTML, CSS, JS, jQuery, Bootstrap. To speed up the web page AJAX is implemented.
